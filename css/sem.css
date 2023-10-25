@@ -3,12 +3,22 @@ body{
     padding: 10px 10px;
     background-color: white;
 }
+*{
+    border: 2px solid red;
+}
 
 .heading{
     text-align: center;
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://images8.alphacoders.com/659/659444.jpg);
+    background-size: cover;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
 }
+
 
 .photo{
     width: 100%;
