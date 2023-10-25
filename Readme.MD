@@ -1,3 +1,3 @@
 # Nikhil's Repo for Semantic Tag Practice
 ### preview of current app with `screenshot`
-![Image](assets/new1.PNG)
+![Image](assets/new.jpg)
