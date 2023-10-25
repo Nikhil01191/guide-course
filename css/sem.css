@@ -3,9 +3,9 @@ body{
     padding: 10px 10px;
     background-color: white;
 }
-*{
+/**{
     border: 2px solid red;
-}
+}*/
 
 .heading{
     text-align: center;
@@ -19,6 +19,18 @@ body{
     color: transparent;
 }
 
+.lineup{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+}
+
+span a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
 
 .photo{
     width: 100%;
