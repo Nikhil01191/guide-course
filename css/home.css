@@ -1,0 +1,45 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+body{
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.house{
+    width: 450px;
+}
+
+.house1{
+    width: 391px;
+}
+
+.house2{
+    width: 383px;
+}
+
+.house3{
+    width: 435px;
+}
+
+.house4{
+    width: 383px;
+}
+
+.house5{
+    width: 387px;
+    height: 262px;
+}
+
+h2{
+    color: blue;
+}
