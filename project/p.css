@@ -1,0 +1,94 @@
+/*css reset*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(/project/photo/boxing.jpg) no-repeat ;
+}
+/* css variable*/
+@media (max-width:425px){
+    #navbar{
+        display: flex;
+    }
+
+    #navbar li{
+        font-size: 5px;
+    }
+}
+
+/*logo*/
+#logo{
+    margin: 5px 5px;
+}
+
+#logo img{
+height: 10vh;
+margin: 5px 5px;
+flex-shrink: inherit;
+}
+
+/*navbar*/
+#navbar{
+    display: flex;
+    align-items: center;
+    
+}
+
+
+/* navigation bar list styling*/
+#navbar{
+    display: flex;
+    position: relative;
+    
+}
+#navbar ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#navbar ul li{
+    list-style: none;
+    font-size: 1.2rem;
+    flex-wrap: wrap;
+}
+#navbar ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 25px;
+    border-radius: 20px;
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+#navbar ul li a:hover{
+    color:white;
+}
+
+/* home section*/
+#home{
+    display: flex;
+    flex-direction: column;
+    padding: 3px 150px;
+    position: absolute;
+    top: 300px;
+}
+
+#home h3{
+    color: red;
+    font-size: 10rew;
+    font-style: italic;
+}
+#home h2{
+    color: white;
+    font-size: 5rem;
+}
+button{
+    display: flex;
+    background-color: red;
+    color: white;
+    padding: 20px;
+    width: 15vw;
+}
+

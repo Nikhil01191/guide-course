@@ -1,6 +1,5 @@
 *{
-    margin: 5px;
-    padding: 5px;
+    
 }
 body{
     box-sizing: border-box;
@@ -14,32 +13,60 @@ img{
 h1{
     font-family: 'Times New Roman', Times, serif;
 }
-
-.house{
-    width: 450px;
+td{
+    
+    
+}
+#imagea{
+    width: 1112px;
+    height: 575px;
+}
+.a{
+    position: absolute;
+    top: 63px;
+    left: 10px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    
 }
 
-.house1{
-    width: 391px;
+.aa{
+    position: absolute;
+    top: 591px;
+    color: white;
+    font-size: 21px;
 }
-
-.house2{
-    width: 383px;
+#imageb{
+    width: 424px;
+    height: 386px;
 }
-
-.house3{
-    width: 435px;
+.b{
+   flex-direction: column;
+    top: 63px;
 }
-
-.house4{
-    width: 383px;
+.bb{}
+#imagec{
+    width: 442px;
+    height: 300px;
 }
-
-.house5{
-    width: 387px;
-    height: 262px;
+.c
+.cc{}
+#imaged{
+    width: 427px;
+    height: 392px;
 }
-
-h2{
-    color: blue;
+.d{}
+.dd{}
+#imagee{
+    width: 427px;
+    height: 392px;
 }
+.e{}
+.ee{}
+#imagef{
+    width: 1024px;
+    height: 540px;
+}
+.f{}
+.ff{}
